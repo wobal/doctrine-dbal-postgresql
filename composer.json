@@ -1,5 +1,5 @@
 {
-  "name": "wobal/doctrine-dbal-postgresql",
+  "name": "wobal/doctrine-dbal3-postgresql",
   "description": "Extensions for support Postgres in Doctrine DBAL & DQL",
   "minimum-stability": "stable",
   "license": "MIT",
